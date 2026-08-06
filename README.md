@@ -10,6 +10,7 @@
 | [0875-koko-eating-bananas](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/SahilSrivastava7/Sheet_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,5 @@
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
