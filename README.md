@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0228-summary-ranges) |
 | [0845-longest-mountain-in-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
@@ -21,6 +22,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0845-longest-mountain-in-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 ## Enumeration
 |  |
