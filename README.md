@@ -14,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0845-longest-mountain-in-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SahilSrivastava7/Sheet_Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -50,9 +51,18 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
