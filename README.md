@@ -47,4 +47,12 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
