@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0228-summary-ranges) |
 | [0845-longest-mountain-in-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
@@ -25,6 +26,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0845-longest-mountain-in-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 ## Enumeration
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
