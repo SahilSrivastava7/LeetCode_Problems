@@ -42,14 +42,17 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Linked List
 |  |
@@ -84,4 +87,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0007-reverse-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
