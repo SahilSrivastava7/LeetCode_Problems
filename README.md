@@ -38,6 +38,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 ## Depth-First Search
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
