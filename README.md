@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
@@ -26,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/SahilSrivastava7/Sheet_Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
