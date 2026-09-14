@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0344-reverse-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
