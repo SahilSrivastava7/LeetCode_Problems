@@ -13,6 +13,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0845-longest-mountain-in-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SahilSrivastava7/Sheet_Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@
 | [0069-sqrtx](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
@@ -89,6 +92,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -109,6 +113,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 ## Depth-First Search
 |  |
@@ -134,4 +139,8 @@
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
