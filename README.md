@@ -21,6 +21,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/SahilSrivastava7/Sheet_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0217-contains-duplicate](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SahilSrivastava7/Sheet_Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0217-contains-duplicate](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -145,4 +148,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
