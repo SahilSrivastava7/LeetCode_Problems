@@ -20,6 +20,7 @@
 | [0875-koko-eating-bananas](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/SahilSrivastava7/Sheet_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
@@ -120,6 +121,7 @@
 | [0069-sqrtx](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
