@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0228-summary-ranges) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0200-number-of-islands) |
 ## Ternary Search
 |  |
 | ------- |
@@ -163,8 +166,13 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
