@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -41,6 +42,7 @@
 | [0015-3sum](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/SahilSrivastava7/Sheet_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -103,6 +105,7 @@
 | [0141-linked-list-cycle](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -120,6 +123,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +156,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Bit Manipulation
 |  |
@@ -178,4 +183,16 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
