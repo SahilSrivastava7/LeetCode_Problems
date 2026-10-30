@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0845-longest-mountain-in-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
@@ -107,6 +108,7 @@
 | [0268-missing-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Floyd's Cycle Finding Algorithm
@@ -195,4 +197,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
