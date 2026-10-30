@@ -19,6 +19,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
@@ -201,8 +202,10 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SahilSrivastava7/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
